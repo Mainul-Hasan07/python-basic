@@ -1,0 +1,6 @@
+print(bin(25))
+print(oct(25))
+print(hex(15))
+print(0b11110)
+print(0x3453)
+print(0o3322)
